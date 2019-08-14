@@ -1,0 +1,10 @@
+D:\MyProject\MyPrj\WebSChatServer\ServerBin\start.sh
+D:\MyProject\MyPrj\WebSChatServer\ServerBin\stop.sh
+D:\MyProject\MyPrj\WebSChatServer\ServerBin\ChatServer.exe.config
+D:\MyProject\MyPrj\WebSChatServer\ServerBin\ChatServer.exe
+D:\MyProject\MyPrj\WebSChatServer\ServerBin\ChatServer.pdb
+D:\MyProject\MyPrj\WebSChatServer\ChatServer\ChatServer\obj\Release\ChatServer.csprojAssemblyReference.cache
+D:\MyProject\MyPrj\WebSChatServer\ChatServer\ChatServer\obj\Release\ChatServer.csproj.CoreCompileInputs.cache
+D:\MyProject\MyPrj\WebSChatServer\ChatServer\ChatServer\obj\Release\ChatServer.csproj.CopyComplete
+D:\MyProject\MyPrj\WebSChatServer\ChatServer\ChatServer\obj\Release\ChatServer.exe
+D:\MyProject\MyPrj\WebSChatServer\ChatServer\ChatServer\obj\Release\ChatServer.pdb
